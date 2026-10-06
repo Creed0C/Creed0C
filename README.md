@@ -15,7 +15,7 @@
 - 💻 Penetration Tester
 - 🔐 Bug Hunter on HackerOne
 - 🔴 Red Teamer
-- 🛡️ Security Researcher @claform
+- 🛡️ Security Researcher @claForm
 
 ## 🏆 Achievements
 
